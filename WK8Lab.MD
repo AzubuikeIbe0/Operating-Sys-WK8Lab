@@ -35,3 +35,5 @@
   536  gcc -pthread -o stack stack.c
   537  ./stack
   538  history
+
+  
